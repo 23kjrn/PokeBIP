@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\C#\PokeBID\bin\Debug\PokeBID.exe.config
+C:\Users\Admin\Documents\C#\PokeBID\bin\Debug\PokeBID.exe
+C:\Users\Admin\Documents\C#\PokeBID\bin\Debug\PokeBID.pdb
+C:\Users\Admin\Documents\C#\PokeBID\obj\Debug\PokeBID.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C#\PokeBID\obj\Debug\PokeBID.PokeBID.resources
+C:\Users\Admin\Documents\C#\PokeBID\obj\Debug\PokeBID.Properties.Resources.resources
+C:\Users\Admin\Documents\C#\PokeBID\obj\Debug\PokeBID.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\C#\PokeBID\obj\Debug\PokeBID.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#\PokeBID\obj\Debug\PokeBID.exe
+C:\Users\Admin\Documents\C#\PokeBID\obj\Debug\PokeBID.pdb
