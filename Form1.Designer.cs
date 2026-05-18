@@ -35,18 +35,29 @@
             this.btn25 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.flpnlMise = new System.Windows.Forms.FlowLayoutPanel();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
+            this.flpnlMise = new System.Windows.Forms.FlowLayoutPanel();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
             this.label2 = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.lblName = new System.Windows.Forms.Label();
+            this.lblRarete = new System.Windows.Forms.Label();
+            this.lblFaiblesse = new System.Windows.Forms.Label();
+            this.lblVie = new System.Windows.Forms.Label();
+            this.lblAttaques = new System.Windows.Forms.Label();
+            this.lblAppartenance = new System.Windows.Forms.Label();
             this.tableLayoutPanel1.SuspendLayout();
-            this.flpnlMise.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
+            this.flpnlMise.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
+            this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // btn10
             // 
+            this.btn10.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn10.Location = new System.Drawing.Point(3, 90);
             this.btn10.Name = "btn10";
             this.btn10.Size = new System.Drawing.Size(85, 23);
@@ -56,6 +67,7 @@
             // 
             // btn50
             // 
+            this.btn50.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn50.Location = new System.Drawing.Point(3, 32);
             this.btn50.Name = "btn50";
             this.btn50.Size = new System.Drawing.Size(85, 23);
@@ -65,6 +77,7 @@
             // 
             // btn100
             // 
+            this.btn100.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn100.Location = new System.Drawing.Point(3, 3);
             this.btn100.Name = "btn100";
             this.btn100.Size = new System.Drawing.Size(85, 23);
@@ -74,6 +87,7 @@
             // 
             // btn5
             // 
+            this.btn5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn5.Location = new System.Drawing.Point(3, 119);
             this.btn5.Name = "btn5";
             this.btn5.Size = new System.Drawing.Size(85, 23);
@@ -83,6 +97,7 @@
             // 
             // btn25
             // 
+            this.btn25.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn25.Location = new System.Drawing.Point(3, 61);
             this.btn25.Name = "btn25";
             this.btn25.Size = new System.Drawing.Size(85, 23);
@@ -105,6 +120,7 @@
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 100F));
             this.tableLayoutPanel1.Controls.Add(this.tableLayoutPanel2, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.panel1, 0, 0);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -113,20 +129,6 @@
             this.tableLayoutPanel1.Size = new System.Drawing.Size(800, 450);
             this.tableLayoutPanel1.TabIndex = 7;
             this.tableLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.tableLayoutPanel1_Paint);
-            // 
-            // flpnlMise
-            // 
-            this.flpnlMise.Controls.Add(this.btn100);
-            this.flpnlMise.Controls.Add(this.btn50);
-            this.flpnlMise.Controls.Add(this.btn25);
-            this.flpnlMise.Controls.Add(this.btn10);
-            this.flpnlMise.Controls.Add(this.btn5);
-            this.flpnlMise.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flpnlMise.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
-            this.flpnlMise.Location = new System.Drawing.Point(3, 225);
-            this.flpnlMise.Name = "flpnlMise";
-            this.flpnlMise.Size = new System.Drawing.Size(88, 216);
-            this.flpnlMise.TabIndex = 7;
             // 
             // tableLayoutPanel2
             // 
@@ -143,6 +145,20 @@
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel2.Size = new System.Drawing.Size(94, 444);
             this.tableLayoutPanel2.TabIndex = 5;
+            // 
+            // flpnlMise
+            // 
+            this.flpnlMise.Controls.Add(this.btn100);
+            this.flpnlMise.Controls.Add(this.btn50);
+            this.flpnlMise.Controls.Add(this.btn25);
+            this.flpnlMise.Controls.Add(this.btn10);
+            this.flpnlMise.Controls.Add(this.btn5);
+            this.flpnlMise.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.flpnlMise.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
+            this.flpnlMise.Location = new System.Drawing.Point(3, 225);
+            this.flpnlMise.Name = "flpnlMise";
+            this.flpnlMise.Size = new System.Drawing.Size(88, 216);
+            this.flpnlMise.TabIndex = 7;
             // 
             // tableLayoutPanel3
             // 
@@ -170,6 +186,88 @@
             this.label2.Text = "Mises";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.lblAppartenance);
+            this.panel1.Controls.Add(this.lblAttaques);
+            this.panel1.Controls.Add(this.lblVie);
+            this.panel1.Controls.Add(this.lblFaiblesse);
+            this.panel1.Controls.Add(this.lblRarete);
+            this.panel1.Controls.Add(this.lblName);
+            this.panel1.Controls.Add(this.pictureBox1);
+            this.panel1.Location = new System.Drawing.Point(3, 3);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(694, 444);
+            this.panel1.TabIndex = 6;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(229, 65);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(282, 234);
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
+            // lblName
+            // 
+            this.lblName.AutoSize = true;
+            this.lblName.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblName.Location = new System.Drawing.Point(320, 46);
+            this.lblName.Name = "lblName";
+            this.lblName.Size = new System.Drawing.Size(104, 16);
+            this.lblName.TabIndex = 1;
+            this.lblName.Text = "NomPokemon";
+            // 
+            // lblRarete
+            // 
+            this.lblRarete.AutoSize = true;
+            this.lblRarete.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblRarete.Location = new System.Drawing.Point(226, 315);
+            this.lblRarete.Name = "lblRarete";
+            this.lblRarete.Size = new System.Drawing.Size(118, 16);
+            this.lblRarete.TabIndex = 2;
+            this.lblRarete.Text = "PokemonRarety";
+            // 
+            // lblFaiblesse
+            // 
+            this.lblFaiblesse.AutoSize = true;
+            this.lblFaiblesse.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblFaiblesse.Location = new System.Drawing.Point(226, 344);
+            this.lblFaiblesse.Name = "lblFaiblesse";
+            this.lblFaiblesse.Size = new System.Drawing.Size(145, 16);
+            this.lblFaiblesse.TabIndex = 3;
+            this.lblFaiblesse.Text = "PoekmonWeakness";
+            // 
+            // lblVie
+            // 
+            this.lblVie.AutoSize = true;
+            this.lblVie.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblVie.Location = new System.Drawing.Point(416, 315);
+            this.lblVie.Name = "lblVie";
+            this.lblVie.Size = new System.Drawing.Size(95, 16);
+            this.lblVie.TabIndex = 4;
+            this.lblVie.Text = "PokemonVie";
+            // 
+            // lblAttaques
+            // 
+            this.lblAttaques.AutoSize = true;
+            this.lblAttaques.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAttaques.Location = new System.Drawing.Point(388, 344);
+            this.lblAttaques.Name = "lblAttaques";
+            this.lblAttaques.Size = new System.Drawing.Size(123, 16);
+            this.lblAttaques.TabIndex = 5;
+            this.lblAttaques.Text = "PokemonAttacks";
+            // 
+            // lblAppartenance
+            // 
+            this.lblAppartenance.AutoSize = true;
+            this.lblAppartenance.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAppartenance.Location = new System.Drawing.Point(9, 10);
+            this.lblAppartenance.Name = "lblAppartenance";
+            this.lblAppartenance.Size = new System.Drawing.Size(147, 16);
+            this.lblAppartenance.TabIndex = 6;
+            this.lblAppartenance.Text = "La carte est pour : ...";
+            // 
             // PokeBID
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -180,9 +278,12 @@
             this.Name = "PokeBID";
             this.Text = "PokeBID";
             this.tableLayoutPanel1.ResumeLayout(false);
-            this.flpnlMise.ResumeLayout(false);
             this.tableLayoutPanel2.ResumeLayout(false);
+            this.flpnlMise.ResumeLayout(false);
             this.tableLayoutPanel3.ResumeLayout(false);
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -201,6 +302,14 @@
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Label lblAttaques;
+        private System.Windows.Forms.Label lblVie;
+        private System.Windows.Forms.Label lblFaiblesse;
+        private System.Windows.Forms.Label lblRarete;
+        private System.Windows.Forms.Label lblName;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label lblAppartenance;
     }
 }
 
