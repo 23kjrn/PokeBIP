@@ -1,14 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\PokeBIP\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|c:\\users\\admin\\documents\\pokebip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|c:\\users\\admin\\documents\\c#\\pokebid\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|c:\\users\\admin\\documents\\pokebip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|c:\\users\\admin\\documents\\c#\\pokebid\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|c:\\users\\admin\\documents\\c#\\pokebid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|c:\\users\\admin\\documents\\c#\\pokebid\\models\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|solutionrelative:models\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|c:\\users\\admin\\documents\\c#\\pokebid\\database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|solutionrelative:database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|c:\\users\\admin\\documents\\c#\\pokebid\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|c:\\users\\admin\\documents\\c#\\pokebid\\forms\\cardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|solutionrelative:forms\\cardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|c:\\users\\admin\\documents\\c#\\pokebid\\models\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|solutionrelative:models\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|c:\\users\\admin\\documents\\c#\\pokebid\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|solutionrelative:models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|c:\\users\\admin\\documents\\c#\\pokebid\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E14FC7-99FD-4CE7-838E-154343095061}|PokeBID.csproj|solutionrelative:models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +50,139 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PokeBIP\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\PokeBIP\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T06:26:07.663Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-18T08:42:07.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\PokeBIP\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\PokeBIP\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T06:26:00.744Z",
+              "WhenOpened": "2026-05-18T07:35:33.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:22:08.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\Database\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\Database\\DatabaseManager.cs",
+              "RelativeToolTip": "Database\\DatabaseManager.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAUwMAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:25:15.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\Models\\Bot.cs",
+              "RelativeDocumentMoniker": "Models\\Bot.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\Models\\Bot.cs",
+              "RelativeToolTip": "Models\\Bot.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:24:33.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:27:55.792Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\Forms\\CardForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CardForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\Forms\\CardForm.cs",
+              "RelativeToolTip": "Forms\\CardForm.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAywJ8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:32:12.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Auction.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\Models\\Auction.cs",
+              "RelativeDocumentMoniker": "Models\\Auction.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\Models\\Auction.cs",
+              "RelativeToolTip": "Models\\Auction.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:24:21.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Models\\Card.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\Models\\Card.cs",
+              "RelativeToolTip": "Models\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:23:51.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\Models\\Bid.cs",
+              "RelativeDocumentMoniker": "Models\\Bid.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\C#\\PokeBID\\Models\\Bid.cs",
+              "RelativeToolTip": "Models\\Bid.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:23:14.094Z",
               "EditorCaption": ""
             }
           ]

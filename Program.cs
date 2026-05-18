@@ -16,7 +16,7 @@ namespace PokeBID
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PokeBID());
+            Application.Run(new MainForm());
         }
     }
 }

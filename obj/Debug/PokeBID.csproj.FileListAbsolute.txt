@@ -8,3 +8,4 @@ C:\Users\Admin\Documents\C#\PokeBID\obj\Debug\PokeBID.csproj.GenerateResource.ca
 C:\Users\Admin\Documents\C#\PokeBID\obj\Debug\PokeBID.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\C#\PokeBID\obj\Debug\PokeBID.exe
 C:\Users\Admin\Documents\C#\PokeBID\obj\Debug\PokeBID.pdb
+C:\Users\Admin\Documents\C#\PokeBID\obj\Debug\PokeBID.MainForm.resources
