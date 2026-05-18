@@ -13,7 +13,7 @@ namespace PokeBID
     /// Formulaire principal de PokeBID.
     /// Contient trois onglets : Cartes | Enchères | Historique.
     /// </summary>
-    public class MainForm : Form
+    public partial class MainForm : Form
     {
         // ═════════════════════════════════════════════════════════════════════
         //  CHAMPS PRIVÉS – Infrastructure

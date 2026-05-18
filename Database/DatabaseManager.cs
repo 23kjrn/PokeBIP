@@ -15,7 +15,7 @@ namespace PokeBID.Database
         // ── Chaîne de connexion ───────────────────────────────────────────────
         // Modifiez ces valeurs selon votre environnement.
         private const string ConnectionString =
-            "Server=localhost;Port=3306;Database=pokebid;Uid=root;Pwd=;CharSet=utf8;";
+            "Server=localhost;Port=3306;Database=pokebid;Uid=root;Pwd=Super;CharSet=utf8;";
 
         // ── Helpers internes ──────────────────────────────────────────────────
 

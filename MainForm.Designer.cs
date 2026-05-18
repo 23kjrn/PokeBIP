@@ -1,6 +1,8 @@
-﻿namespace PokeBID
+﻿using System.Windows.Forms;
+
+namespace PokeBID
 {
-    partial class MainForm
+    public partial class PokeBID : MainForm
     {
         private System.ComponentModel.IContainer components = null;
 
